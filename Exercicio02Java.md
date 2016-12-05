@@ -1,25 +1,24 @@
-# Alura exercícios - *Java*
-#### Calculando Média.
-***
+// Alura exercÃ­cios - *Java*
+// Calculando MÃ©dia.
+
 public class Balancotrimestral {
 
-public static void main(String[] args) {
+	public static void main(String[] args) {
 
-int gastosJaneiro = 15000;
-        
-int gastosFevereiro = 23000;
-	
-int gastosMarco = 17000;
-        
-int gastosTrimestre = gastosJaneiro + 
-gastosFevereiro + gastosMarco;
+		int gastosJaneiro = 15000;
 
-        int mediaMensal;
+		int gastosFevereiro = 23000;
 
-	System.out.println("Resultado trimestral: " + gastosTrimestre);	
+		int gastosMarco = 17000;
 
-        mediaMensal = gastosTrimestre / 3;
+		int gastosTrimestre = gastosJaneiro + gastosFevereiro + gastosMarco;
 
-        System.out.println("Valor da média mensal= " + mediaMensal);   
-    }    
+		int mediaMensal;
+
+		System.out.println("Resultado trimestral: " + gastosTrimestre);
+
+		mediaMensal = gastosTrimestre / 3;
+
+		System.out.println("Valor da mÃ©dia mensal= " + mediaMensal);
+	}
 }
