@@ -11,3 +11,7 @@
 ### Multiplos de 3 entre 1 a 100
 
 ### Exercicio fatorial
+
+### Exercicio de int para Long
+
+### Exercicio Opcional
