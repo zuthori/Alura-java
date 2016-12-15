@@ -1,6 +1,6 @@
-//Crie um método mostra(), que não recebe nem devolve parâmetro 
-//algum e simplesmente imprime todos os atributos do nosso funcionário.
-
+/*Crie um método mostra(), que não recebe nem devolve parâmetro 
+algum e simplesmente imprime todos os atributos do nosso funcionário.
+*/
 void mostra(){
         System.out.println("Registro Geral: " + this.registroGeral);
         System.out.println("Departamento: " + this.departamento);
