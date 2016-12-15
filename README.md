@@ -15,3 +15,9 @@
 ### Exercicio de int para Long
 
 ### Exercicio Opcional
+
+### Exercicio 09 Iniciando Orientação a objetos
+
+### Exercicio 10 (Continuação do 9)
+
+### Exercicio 11 "Fazendo arte"
