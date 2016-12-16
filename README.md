@@ -1,23 +1,16 @@
-﻿# Alura-java
+# Alura-java
 
 ## Alura exercícios, aprendendo java.
 
-### Exercício de balanço trimestral
-
-### Exercício de while
-
-### Exercício de for
-
-### Multiplos de 3 entre 1 a 100
-
-### Exercicio fatorial
-
-### Exercicio de int para Long
-
-### Exercicio Opcional
-
-### Exercicio 09 Iniciando Orientação a objetos
-
-### Exercicio 10 (Continuação do 9)
-
-### Exercicio 11 "Fazendo arte"
+|Exercicios|
+|:---------------------------------|
+|1. balanço trimestral|
+|2. while|
+|3. for|
+|4. Multiplos de 3 entre 1 a 100|
+|5. fatorial|
+|6. int para Long|
+|7. Opcional|
+|8. Iniciando Orientação a objetos|
+|9. Continuando Orientação a objetos|
+|10. Fazendo arte"|
